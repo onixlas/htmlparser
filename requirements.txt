@@ -1,0 +1,4 @@
+fastapi==0.111.0
+regex==2024.5.15
+requests==2.32.3
+beautifulsoup4==4.12.3
